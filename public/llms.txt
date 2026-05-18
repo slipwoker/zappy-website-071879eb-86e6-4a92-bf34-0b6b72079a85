@@ -1,0 +1,101 @@
+# הקולה מרקט — Generative Engine Optimization Map
+
+> HaKola Market is a specialty food retail store offering a curated selection of nuts, dried fruits, spices, and complementary products. The brand focuses on quality and convenience, providing home delivery services to bring premium pantry staples directly to customers' doors. The store has a warm, market-inspired identity centered around natural, wholesome products.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיצוחים ופירות יבשים משלוח עד הבית, תבלינים איכותיים ומוצרי מזווה פרימיום — הכל במקום אחד. הקולה מרקט מביא לך את הטעמים הטובים ביותר ישירות לדלת. הזמן עכשיו!
+
+### משלוח ואיכות
+https://example.com/delivery-quality
+משלוח תבלינים ופיצוחים מהיר ואמין עד הבית שלך, עם אריזה קפדנית ומוצרים שנבחרו בקפידה. גלה איך הקולה מרקט שומר על האיכות מהמדף ועד הדלת שלך.
+
+### אודות
+https://example.com/about
+הקולה מרקט נולד מאהבה לאוכל אמיתי ואיכותי. אנחנו מאמינים שתבלינים איכותיים לבישול בריא ופיצוחים טבעיים שייכים לכל שולחן. הכירו את הצוות, הערכים והחזון שלנו.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על הזמנה, משלוח תבלינים או מוצרי פיצוחים? צוות הקולה מרקט כאן בשבילכם. צרו קשר עכשיו ונחזור אליכם במהירות עם כל המידע שתצטרכו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - הקולה מרקט
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - הקולה מרקט
+
+### Category
+https://example.com/category/:slug
+מוצרים - הקולה מרקט
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הקולה מרקט
+HaKola Market is a specialty food retail store offering a curated selection of nuts, dried fruits, spices, and complementary products. The brand focuses on quality and convenience, providing home delivery services to bring premium pantry staples directly to customers' doors. The store has a warm, market-inspired identity centered around natural, wholesome products.
+
+## Target Audience
+- משפחות בריאות
+- חובבי בישול
+- עוקבי אורח חיים טבעוני
+- גלוטן
+
+## Industry
+Food & Beverage Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
