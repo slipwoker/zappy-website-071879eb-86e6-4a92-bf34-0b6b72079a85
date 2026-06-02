@@ -3615,7 +3615,7 @@ Use code TEST for a discount!
 
 ### הוסף כתובת
 
-&times;
+×
 
 
 
