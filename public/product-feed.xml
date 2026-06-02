@@ -4,6 +4,19 @@
     <title>הקולה מרקט</title>
     <link>https://example.com</link>
     <description>Product feed for הקולה מרקט</description>
-    <lastBuildDate>Mon, 18 May 2026 07:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 06:16:52 GMT</lastBuildDate>
+    <item>
+      <g:id>8c9c26ef-3cdc-451a-bd0d-3f5b889d88f2</g:id>
+      <g:title>שקד טחון</g:title>
+      <g:description>שקד טחון</g:description>
+      <g:link>https://example.com/product/shkd-tchvn-9svojn</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1779090538467-ozhika.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.00 ILS</g:price>
+      <g:sale_price>39.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>הקולה מרקט</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

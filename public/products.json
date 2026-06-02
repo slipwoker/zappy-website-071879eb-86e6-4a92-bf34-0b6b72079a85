@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-18T07:40:57.975Z",
+  "generated_at": "2026-06-02T06:16:52.538Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "8c9c26ef-3cdc-451a-bd0d-3f5b889d88f2",
+      "slug": "shkd-tchvn-9svojn",
+      "name": "שקד טחון",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 49,
+      "sale_price": 39,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1779090538467-ozhika.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shkd-tchvn-9svojn",
+      "categories": [],
+      "updated_at": "2026-05-18T07:49:27.587Z"
+    }
+  ]
 }
