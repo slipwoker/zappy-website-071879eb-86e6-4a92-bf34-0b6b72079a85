@@ -86,6 +86,9 @@ Use code TEST for a discount!
 
 
 
+
+
+
 - בית
 - משלוח ואיכות
 - אודות
@@ -604,6 +607,9 @@ Use code TEST for a discount!
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -1152,6 +1158,9 @@ Use code TEST for a discount!
 
 
 
+
+
+
 - בית
 - משלוח ואיכות
 - אודות
@@ -1621,6 +1630,9 @@ Use code TEST for a discount!
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -2244,8 +2256,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -2523,8 +2537,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -2778,8 +2794,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -3219,8 +3237,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -3481,8 +3501,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -3898,8 +3920,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4177,8 +4201,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4219,7 +4245,7 @@ Use code TEST for a discount!
 # מדיניות החזרת מוצרים
 
 
-עדכון אחרון: 2.6.2026
+עדכון אחרון: 13.6.2026
 
 
 
@@ -4485,8 +4511,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -4742,8 +4770,10 @@ Use code TEST for a discount!
 
 
 
-
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -5004,6 +5034,9 @@ Use code TEST for a discount!
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -5328,6 +5361,9 @@ Use code TEST for a discount!
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
@@ -5661,6 +5697,9 @@ Use code TEST for a discount!
 
 
 - מוצרים מוצרים
+
+
+
 
 
 
